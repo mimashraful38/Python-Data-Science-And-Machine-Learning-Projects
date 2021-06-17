@@ -1,1 +1,1 @@
-# Mine-VS-Rocks
+# My Completed Data Science And Machine Learning Projects. 
